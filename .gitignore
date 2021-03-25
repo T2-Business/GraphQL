@@ -3,3 +3,6 @@
 ################################################################################
 
 /GraphQLWithHotChocolate.API/bin/Debug/netcoreapp3.1
+/GraphQLWithHotChocolate.API/obj
+/GraphQLWithHotChocolate.Enity/bin/Debug/netcoreapp3.1
+/GraphQLWithHotChocolate.Enity/obj
