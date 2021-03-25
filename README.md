@@ -40,6 +40,6 @@ author{
 <li><a href="https://github.com/apollostack/apollo-client">apollo-client</a></li>
 <li><a href="https://github.com/gucheen/FetchQL">FetchQL</a></li>
 <li><a href="https://github.com/kadirahq/lokka">lokka</a></li>
-<\ul>
+</ul>
   </p>
 <h3>Alos you can Add your Own client applicaiton <h3>
